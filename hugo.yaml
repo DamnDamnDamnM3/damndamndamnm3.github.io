@@ -1,6 +1,6 @@
 baseURL: https://hugo-toha.github.io
 
-languageCode: bn
+languageCode: en
 title: "John's Blog"
 
 # Use Hugo modules to add theme
@@ -70,7 +70,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/JW-Albert/JW-Albert.github.io
+  gitRepo: https://github.com/DamnDamnDamnM3/damndamndamnm3.github.io
   # Default branch of your Git repo
   gitBranch: main
 
