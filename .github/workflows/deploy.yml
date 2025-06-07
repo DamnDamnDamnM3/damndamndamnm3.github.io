@@ -22,11 +22,21 @@ jobs:
           hugo-version: '0.147.7'   # ✅ 改為你實際的 Hugo 版本
           extended: true
 
+      - name: Debug Info
+        run: |
+          echo "Current directory structure:"
+          ls -la
+          echo "Hugo version:"
+          hugo version
+          echo "Git submodules:"
+          git submodule status
+
       - name: Build site
-        run: hugo --minify --cleanDestinationDir
+        run: hugo --minify --cleanDestinationDir --debug
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          commit_message: "Deploy Hugo site to GitHub Pages"
