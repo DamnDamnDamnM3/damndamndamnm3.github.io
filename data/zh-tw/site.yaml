@@ -1,5 +1,5 @@
 # Copyright Notice
-copyright: © 2020 版權所有。
+copyright: © 2025 版權所有。
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 disclaimer: "本主題採用 MIT 授權。因此，您可以用於非商業、商業或私人用途。
@@ -26,4 +26,5 @@ openGraph:
   type: website
   description: 約翰·多伊的作品集和個人部落格。
   image: images/author/john.png
-  url: https://hugo-toha.github.io
+  url: https://damndamndamnm3.github.io
+

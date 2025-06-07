@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://damndamndamnm3.github.io
 
 languageCode: en
-title: "John's Blog"
+title: "三個人的部落格"
 
 # Use Hugo modules to add theme
 module:
@@ -23,12 +23,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Albert and Lance and Andy's Blog"
     weight: 1
   zh-tw:
     languageCode: zh-tw
     languageName: 繁體中文
-    title: "強的部落格"
+    title: "阿爾伯特與蘭斯與安迪的部落格"
     weight: 2
 # default language for the content
 defaultContentLanguage: en
