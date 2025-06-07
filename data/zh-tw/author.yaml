@@ -1,16 +1,13 @@
 # some information about you
-name: "約翰·多伊"
-nickname: "約翰"
+name: "阿爾伯特與藍斯與安迪"
+nickname: "DamnDamnDamnM3"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "你好，我是"
+greeting: "你好，我們是"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
-  github: johndoe
-  linkedin: johndoe
-  researchgate: john-doe
+  email: "Damnm3@googlegroups.com"
+  github: Damndamndamnm3
 
 # some summary about what you do
 summary:

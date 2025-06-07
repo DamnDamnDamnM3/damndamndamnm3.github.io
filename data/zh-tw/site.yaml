@@ -7,7 +7,7 @@ disclaimer: "本主題採用 MIT 授權。因此，您可以用於非商業、�
 但是，主題作者不提供任何保證，也不對主題的任何問題承擔責任。"
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: 約翰·多伊的作品集和個人部落格。
+description: 阿爾伯特與藍斯與安迪的作品集和個人部落格。
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -22,9 +22,9 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: 約翰的部落格
+  title: 阿爾伯特與藍斯與安迪的部落格
   type: website
-  description: 約翰·多伊的作品集和個人部落格。
+  description: 阿爾伯特與藍斯與安迪的作品集和個人部落格。
   image: images/author/john.png
   url: https://damndamndamnm3.github.io
 
