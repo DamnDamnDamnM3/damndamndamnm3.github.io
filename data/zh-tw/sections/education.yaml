@@ -34,7 +34,7 @@ degrees:
   icon: fa-graduation-cap
   timeframe: 2012-2016
   institution:
-    name: XYZ 大學
+    name: 逢甲大學
     url: "#"
     logo: /images/sections/education/university.jpg
     # Can optionally show a different logo for dark theme
